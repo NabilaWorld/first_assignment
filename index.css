@@ -192,10 +192,11 @@ input{
     font-weight: 600;
     font-size: 20px;
     color: #F15B22;
+    border: 0;
 }
 
 .style-gradient{
-    background-image: linear-gradient(to right, #ff00005e , #ffffff59), url('watch.png');
+    background-image: linear-gradient(to right, orange , #ffffff59), url('watch.png');
     height: 100px;
     background-repeat: no-repeat;
     margin-bottom: 130px;
